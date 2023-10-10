@@ -1,12 +1,12 @@
-# Laravel Hospital_Management_System
+## Laravel Hospital_Management_System
 
 laravel 10 hospital website with MySQL, Bootstrap and jquery. it has an admin panel.
 
-# Demo
+## Demo
 
     https://drive.google.com/file/d/1iUfwealbnKGZz0nkM1NhPGEc8VF4aNPy/view?usp=sharing
 
-# Installation
+## Installation
 
 1.Clone the project
 
@@ -33,7 +33,7 @@ If you want to use Mysql, make sure you have mysql server up and running.
     php artisan migrate
 
 
-# Features
+## Features
 
 1. admin panel for managing appointments, messages, docotrs, symptoms.
 2. Back to top
