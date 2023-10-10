@@ -1,6 +1,6 @@
 ## Laravel Hospital_Management_System
 
-laravel 10 hospital website with MySQL, Bootstrap and jquery. it has an admin panel.
+laravel 10 hospital website with MySQL, Bootstrap 5 and jquery. it has an admin panel.
 
 ## Demo
 
