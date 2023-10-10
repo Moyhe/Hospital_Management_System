@@ -8,27 +8,27 @@ laravel 10 hospital website with MySQL, Bootstrap and jquery. it has an admin pa
 
 # Installation
 
-1. Clone the project
+1.Clone the project
 
     https://github.com/Moyhe/Hospital_Management_System.git
 
-2. Navigate into project folder using terminal and run
+2.Navigate into project folder using terminal and run
 
     composer install
 
-3. Copy .env.example into .env
+3.Copy .env.example into .env
    
     cp .env.example .env
 
-4. Adjust DataBase parameters
+4.Adjust DataBase parameters
 
 If you want to use Mysql, make sure you have mysql server up and running. 
 
-5. Set encryption key
+5.Set encryption key
 
     php artisan key:generate --ansi
 
-6. Run migrations
+6.Run migrations
 
     php artisan migrate
 
